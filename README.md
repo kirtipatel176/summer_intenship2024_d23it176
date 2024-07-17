@@ -53,7 +53,7 @@ In Week 3, I gained basic knowledge of node js and learned essential concepts fo
   - I learned How NodeJS works and how to run and configure it.
 
  ### Day 2:
- - i Created product list project using react.
+ - i Created product list project using react. 
  - In this project functionality is input product details and store details about product in database.
 
  ### Day 3: 
