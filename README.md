@@ -11,7 +11,7 @@ First, let me tell you to first choose which technology you like. I did research
  ### Day 2:
 - I practiced of scope,IIFE,Callback with example
 - I deepened my understanding of the fundamental structure of javascript code, which is crucial for building robust and well-organized web pages.
- ### Day 3:
+ ### Day 3: 
 - I created basic mini project using base of javascript concenpt.
 - I practiced creating different types of form elements like input fields, checkboxes, radio buttons, and submit buttons.
  ### Day 4:
