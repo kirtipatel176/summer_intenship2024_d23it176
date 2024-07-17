@@ -53,6 +53,27 @@ In Week 3, I gained basic knowledge of node js and learned essential concepts fo
   - I learned How NodeJS works and how to run and configure it.
 
  ### Day 2:
+ - i Created product list project using react.
+ - In this project functionality is input product details and store details about product in database.
+
+ ### Day 3: 
+  - Product List projest configure with databse.
+  - In this product stored data in database.
+
+### Day 4: 
+  - Improving better design and responsive project And Good quality code.
+  - adding dark mode and light mode and pop-up box functionality .
+
+## Day 5: 
+   -Build a simple calculator application using Node.js and JavaScript.
+   -Design a calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+   -And Improve designing project.
+  # Week 4: 
+  In Week 4, I worked on company  project using HTML, CSS, javascript and react. I was given a project by the company. I was given some tasks in that project. In that project I was given to design the website and given small tasks like footer, better build design, about page etc.
+  
+
+
+   
 
     
 
