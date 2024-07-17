@@ -9,7 +9,7 @@ First, let me tell you to first choose which technology you like. I did research
 - I focused on the syntax to create an basic javascript
 - I practiced basic topic to create simple javscript
  ### Day 2:
-- I practiced of scope,IIFE,Callback with example
+- I practiced of scope,IIFE,Callback with example 
 - I deepened my understanding of the fundamental structure of javascript code, which is crucial for building robust and well-organized web pages.
  ### Day 3: 
 - I created basic mini project using base of javascript concenpt.
