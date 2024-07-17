@@ -45,6 +45,17 @@ Week 2 , i am  Start working on learning React advanced topics and its exammple 
   - applied hook concept.
 
 # week 3  
+In Week 3, I gained basic knowledge of node js and learned essential concepts for  web development. This included understanding about node js concept etc. I applied these skills in my project, enhancingthe website's functionality and interactivity. This hands-on experience was invaluable, allowing me to effectively integrate react and nodejs with my existing project. It also improved my ability to create dynamic and responsive web pages, furthering my development skills.
+
+ ### Day 1:
+  - I learned about nodejs tutorial like how to work node js also structure of nodejs.
+  - implement nodejs my desktop.
+  - I learned How NodeJS works and how to run and configure it.
+
+ ### Day 2:
+
+    
+
 
 
     
